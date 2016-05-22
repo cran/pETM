@@ -1,0 +1,12 @@
+793c445e6acc48fcc3b21bc2421c2c3d *DESCRIPTION
+f4bc320087de01fba5dd46384454315c *NAMESPACE
+652d759050d82b72dcd803c17617f7f1 *R/net.penalty.r
+e3452cdd3b347f3645b82e6bb28bbee3 *R/pETM.r
+d5b44b59f23b953d6c2f8835e3fb180d *cleanup
+7d272deaf972618a3f6f70b36e2272f7 *configure
+8bd1021d80561a0f3e79137e920b3ecd *configure.in
+98e8e7b7969f1b5912595e08838d5162 *configure.win
+de4e7f191a80f26be74380ad6c2ccfa7 *man/pETM.Rd
+03d5d624b734ace367b45b789fbf66a4 *src/Makevars.in
+1bd30ec98a50c49ec6aabebbb458d0cb *src/Makevars.win
+ed265248885449608302bce3624b05cc *src/pETM.f90
